@@ -1,0 +1,23 @@
+# Enviroment variables
+.env
+.env.local
+.env.development
+.env.production
+
+
+# Node.js modules
+node_modules/
+/node_modules
+
+#Logs
+npm-debug.Log*
+yarn-debug.log*
+yarn-error.log*
+
+#IDEs und Editoren
+.vscode/
+.idea/
+
+#Betriebssystemdateien
+.DS_Store
+Thumbs.db
